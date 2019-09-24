@@ -13,6 +13,7 @@ Here's the idea:
 	3) Have the users answer questions about the data using data visualization tools
 
 Here's how I'm approaching each part of the idea:
+	
 	1) Create a scipt that automatiically gnerates fake breach data
 		So, really I was learning about Python when I wrote this. There is no better evidence of this than
 		checking out how I collected the data. This is a very inefficient use of Python, and I would like
